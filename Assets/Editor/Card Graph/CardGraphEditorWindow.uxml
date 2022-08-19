@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
+    <Style src="project://database/Assets/Editor/Card%20Event%20Graph/Graph%20View%20Styles.uss?fileID=7433441132597879392&amp;guid=36d1de28e5b516a48ad6171f7451edf1&amp;type=3#Graph View Styles" />
+    <CardGraphView focusable="true" class="CardGraphView" />
+</ui:UXML>

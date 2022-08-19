@@ -1,0 +1,14 @@
+TemplateContainer {
+    flex-grow: 1;
+}
+
+.graphBackground {
+    --grid-background-color: #20282E;
+    --line-color: #252f36;
+    --thick-line-color: #445164;
+    --spacing: 25;
+}
+
+.CardGraphView {
+    flex-grow: 1;
+}
